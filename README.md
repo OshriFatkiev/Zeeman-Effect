@@ -1,2 +1,2 @@
 # zeeman-effect
-will be added later
+A simulation using jupyter notebook...
