@@ -1,2 +1,2 @@
 # zeeman-effect
-A simulation of Zeeman effect using jupyter notebook
+A simulation of Zeeman effect in jupyter notebook
